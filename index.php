@@ -291,7 +291,7 @@
                                             hanno poco scudo, quindi rimarranno su una configurazione pesante o moriranno, oppure cambieranno in veloce ma faranno pochi danni. L'ideale sarebbe utilizzarlo con una
                                             formazione che aumenta il danno dei missili quindi con la stella, la onda o la doppia freccia: maggiore è il danno, più scudo riprendi e più sarà facile vincere.</p>
                                     <h2 style="font-size: 2.2rem">COUNTERARE IL COLLEGAMENTO HP PET</h2>
-                                            <p>Counterare il Collegamento HP è molto semplices, quando vedi qualcuno usarlo devi pensare subito ad usare l'SR-5
+                                            <p>Counterare il Collegamento HP è molto semplice, quando vedi qualcuno usarlo devi pensare subito ad usare l'SR-5
                                                 (la formazione a onda non è necessaria) e le bombe, se utilizzi questa combo e in più spari ai nemici nello stesso momento, il Collegamento HP finirà e il PET 
                                                 morirà in un secondo. Ricordati di non usare la bomba in mezzo ai tuoi alleati: se siete in superiorità numerica non conviene usare la bomba inteligente perchè farà 
                                                 danno anche ai tuoi alleati.</p>
