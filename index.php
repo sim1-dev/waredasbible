@@ -53,7 +53,7 @@
             <div class="slide" id="1">
                 <div class="content second-content">
                     <div class="container-fluid">
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-sm-12">
                             <div class="left-content">
                                 <h2>CONFIGURAZIONI / EXTRA</h2>
                                 <p>Non importa la nave che usate. Solace, Spectrum, Citadel, Hammerclaw, Berserker, non ci sono 36 configurazioni efficienti differenti.</p> 
@@ -68,9 +68,9 @@
                                 <p><b>PET:</b> Mega mina, kamikaze, collegamento HP, fiamma sacrificale e riparazione nave combo in entrambe le conf. Il tuo pet deve essere sempre aperto e in difesa.</p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 d-sm-none d-md-block">
                             <div class="left-content" style="background:linear-gradient(0deg, rgba(24, 152, 238, 0.15), rgba(86, 4, 163, 0.15)), url('img/about_image.jpg');background-size: cover;background-repeat: no-repeat;">
-                                <div style="visibility: hidden">
+                                <div style="visibility: hidden" class="d-sm-none">
                                     <h2>CONFIGURAZIONI / EXTRA</h2>
                                     <p>Non importa la nave che usate. Solace, spectrum, citadel, hammerclaw, berserker non ci sono 36 configurazioni differenti che siano efficenti.</p> 
                                     <p>La conf veloce deve contenere tra gli 0 e i 4 laser sui droni e tutti con la hercules.
@@ -91,7 +91,7 @@
             <div class="slide" id="2">
             <div class="content second-content">
                 <div class="container-fluid">
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-12">
                         <div class="left-content">
                             <h2>POTENZIAMENTI, TASTI RAPIDI E BARRE</h2>
                             <p>Ora che avete delle buone conf siete già a un buon punto, ma i potenziamenti sono <b>OBBLIGATORI</b> e bisogna averli ogni volta che si fighta.</p> 
@@ -103,9 +103,9 @@
                                 2 secondi e non necessitano di una reazione velocissima per essere premute come ad esempio le hi-tech, l'sr5, la bomba ecc.</p>
                       </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 d-sm-none d-md-block">
                         <div class="left-content" style="background:linear-gradient(0deg, rgba(24, 152, 238, 0.15), rgba(86, 4, 163, 0.15)), url('img/about_image.jpg');background-size: cover">
-                            <div style="visibility: hidden">
+                            <div style="visibility: hidden" class="d-sm-none">
                                 <h2>POTENZIAMENTI, TASTI RAPIDI E BARRE</h2>
                                 <p>Ora che avete delle buone conf avete già un buon inizio ma i potenziamenti sono un dovere e bisogna averli ogni volta che si fighta.</p> 
                                 <p>I tuoi booster devono essere singoli e doppi hp,danno,scudo,abilità,rigenerazione scudo e rigenerazione vita.</p>
@@ -124,7 +124,7 @@
             <div class="slide" id="3">
             <div class="content second-content">
                 <div class="container-fluid">
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-12">
                         <div class="left-content">
                             <h2>MIGLIORARE IL TUO GAMEPLAY</h2>
                             <p>Per migliorare il tuo gameplay inizia a chiudere le finestre non necessarie come i potenziamenti, quest, contatti ecc. Il tuo schermo deve risultare pulito.</p> 
@@ -138,9 +138,9 @@
                                 riflessi, focus e seguire. Non spaventarti di focussare una citadel con la bastarda perche sono i primi target che devono andare giù.</p>
                       </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 d-sm-none d-md-block">
                         <div class="left-content" style="background:linear-gradient(0deg, rgba(24, 152, 238, 0.15), rgba(86, 4, 163, 0.15)), url('img/about_image.jpg');background-size: cover">
-                            <div style="visibility: hidden">
+                            <div style="visibility: hidden" class="d-sm-none">
                                 <h2>MIGLIORARE IL TUO GAMEPLAY</h2>
                             <p>Per migliorare il tuo gameplay inizia a chiudere le finestre che non sono necessarie come i potenziamenti,quest,contattti etc il tuo screen deve risultare pulito.</p> 
                             <p>Il browser e i settaggi di questi possono cambiare la tua performance aumentando i tuoi fps.maxthon 5 è il più usato.fai dei settaggi basici e leva quello di cui non 
@@ -161,7 +161,7 @@
             <div class="slide" id="4">
                 <div class="content second-content">
                     <div class="container-fluid">
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-sm-12">
                             <div class="left-content">
                                 <h2>IMPARARE LE FORMAZIONI</h2>
                                 <p>Le formazioni danno dei bonus e dei malus. Per esempio l'anello
@@ -178,9 +178,9 @@
                                     stella o anche alla trapano.</p>
                           </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 d-sm-none d-md-block">
                             <div class="left-content" style="background:linear-gradient(0deg, rgba(24, 152, 238, 0.15), rgba(86, 4, 163, 0.15)), url('img/about_image.jpg');background-size: cover">
-                                <div style="visibility: hidden">
+                                <div style="visibility: hidden" class="d-sm-none">
                                     <h2>IMPARARE LE FORMAZIONI</h2>
                                 <p>Le formazioni danno dei bonus e dei malus, quindi basicalmente quando metti una formazione tu vuoi usare i bonus finchè non sono più efficenti. Per esempio l'anello
                                     aumenta il tuo scudo dell'85% e diminusce la tua velocità del 5%, i danni del 25% e la ricarica dei lanciamissili del 25%, questo vuol dire che quando lo scudo in 
@@ -203,7 +203,7 @@
             <div class="slide" id="5">
                     <div class="content second-content">
                         <div class="container-fluid">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-sm-12">
                                 <div class="left-content">
                                     <h2>FOCUS E POSIZIONAMENTO</h2>
                                     <p>Prendere il giusto bersaglio quando sei solo in mappa o in teamfight è l'80% della vittoria. Il primo focus devono essere sempre le bastarde, loro sono quelle che fanno più
@@ -228,9 +228,9 @@
                                                 quindi quando vedi una sentinel o una spectrum in abilità cambia bersaglio il prima possibile.</p>
                               </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6 d-sm-none d-md-block">
                                 <div class="left-content" style="background:linear-gradient(0deg, rgba(24, 152, 238, 0.15), rgba(86, 4, 163, 0.15)), url('img/about_image.jpg');background-size: cover">
-                                    <div style="visibility: hidden">
+                                    <div style="visibility: hidden" class="d-sm-none">
                                         <h2>FOCUS E POSIZIONAMENTO</h2>
                                     <p>Prendere il giusto focus quando sei solo in mappa o in teamfight è l'80% della vittoria. il primo focus devono essere sempre le bastarde,loro sono quelle che fanno più
                                         danno ma sono molto facili da tirare.</p> 
@@ -261,7 +261,7 @@
             <div class="slide" id="6">
                 <div class="content second-content">
                     <div class="container-fluid">
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-sm-12">
                             <div class="left-content">
                                 <h2>TIPS & TRICKS</h2><br><br>
                                 <h2 style="font-size: 2.2rem">PLD-8</h2>
@@ -297,7 +297,7 @@
                                                 danno anche ai tuoi alleati.</p>
                           </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 d-sm-none d-md-block">
                             <div class="left-content" style="background:linear-gradient(0deg, rgba(24, 152, 238, 0.15), rgba(86, 4, 163, 0.15)), url('img/about_image.jpg');background-size: cover">
                                 <div style="visibility: hidden">
                                     <h2 class="w-100">TIPS & TRICKS</h2><br><br>
