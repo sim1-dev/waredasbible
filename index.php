@@ -342,7 +342,7 @@
 
         <div class="footer">
           <div class="content">
-              <p>Copyright &copy; 2020 Tortellini. Discord: <a rel="nofollow" href="https://discord.com/users/381088901512822785">Tortellini#5729</a><p> Special thanks to Fedy.<b> TRAP</b></p>
+              <p>Copyright &copy; 2020 Tortellini. Discord: <a rel="nofollow" href="https://discord.com/users/381088901512822785" target="_blank">Tortellini#5729</a><p> Special thanks to Fedy.<b> TRAP</b></p>
           </div>
         </div>
  
