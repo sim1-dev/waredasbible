@@ -40,12 +40,12 @@
               <img src="img/mini_logo.png" alt="">
           </div>
           <ul>
-            <li><a href="#1"><i class="fa fa-cogs"></i> <em>CONFIGURAZIONI / EXTRA</em></a></li>
+          <li><a href="#1"><i class="fa fa-cogs"></i> <em>CONFIGURAZIONI</em></a></li>
             <li><a href="#2"><i class="fa fa-keyboard-o"></i> <em>POTENZIAMENTI E TASTI</em></a></li>
-            <li><a href="#3"><i class="fa fa-gamepad"></i> <em>MIGLIORARE IL TUO GAMEPLAY</em></a></li>
-            <li><a href="#4"><i class="fa fa-mouse-pointer"></i> <em>IMPARARE LE FORMAZIONI</em></a></li>
-            <li><a href="#5"><i class="fa fa-bullseye"></i> <em>FOCUS E POSIZIONAMENTO</em></a></li>
-            <li><a href="#6"><i class="fa fa-list"></i> <em>TIPS & TRICKS</em></a></li>
+            <li><a href="#3"><i class="fa fa-gamepad"></i> <em>MIGLIORARE IL GIOCO</em></a></li>
+            <li><a href="#4"><i class="fa fa-mouse-pointer"></i> <em>CAMBIARE FORMAZIONE</em></a></li>
+            <li><a href="#5"><i class="fa fa-bullseye"></i> <em>FOCUS E MOVIMENTO</em></a></li>
+            <li><a href="#6"><i class="fa fa-list"></i> <em>CONSIGLI UTILI</em></a></li>
           </ul>
         </nav>
         
